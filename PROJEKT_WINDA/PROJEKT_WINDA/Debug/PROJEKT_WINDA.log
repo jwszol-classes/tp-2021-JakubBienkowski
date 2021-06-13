@@ -1,0 +1,5 @@
+﻿  PROJEKT_WINDA.cpp
+C:\Users\bieni\source\repos\PROJEKT_WINDA\PROJEKT_WINDA\PROJEKT_WINDA.cpp(1305,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bieni\source\repos\PROJEKT_WINDA\PROJEKT_WINDA\PROJEKT_WINDA.cpp(1348,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bieni\source\repos\PROJEKT_WINDA\PROJEKT_WINDA\PROJEKT_WINDA.cpp(1391,23): warning C4018: '<': signed/unsigned mismatch
+  PROJEKT_WINDA.vcxproj -> C:\Users\bieni\source\repos\PROJEKT_WINDA\Debug\PROJEKT_WINDA.exe
